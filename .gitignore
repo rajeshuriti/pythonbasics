@@ -1,0 +1,6 @@
+ext4.vhdx
+ubuntu.wsl
+*.ico
+venv/
+__pycache__/
+.vscode/
